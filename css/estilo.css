@@ -1,0 +1,29 @@
+.tamanho_slider{
+	height: 800px;
+}
+
+.fundo-bc{
+	background: #f4f4f1	;
+		
+}
+.linha-vertical {
+  height: 47px;/*Altura da linha*/
+  border-left: 3px solid;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+  color: #ffffff;
+}
+.listra {
+background:linear-gradient(
+180deg,
+#FBF6F6,
+#D64F4F 180px
+)
+}
+.p-set{
+	font-family: serif;
+	font-style : oblique;
+	font-size: 120%;
+	color: #000000;
+	font-weight: bold;
+	
+}
+
