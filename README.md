@@ -14,9 +14,14 @@ Site desenvolvimento durante o curso de Sistemas de Informação em 2018 para ap
     - Navbar com Dropdown
     - Cards
 
-## Screenshots
+## Instalação
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+git clone https://github.com/thiaaagao/Projeto.git
+
+```bash
+  cd ./Projeto/
+  rode o live server ;)
+```
 
 
 ## Autores
