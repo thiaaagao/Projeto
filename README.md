@@ -9,8 +9,9 @@ Site desenvolvimento durante o curso de Sistemas de Informação em 2018 para ap
 ## Site online :D
 
 ```bash
-    https://thiaaagao.github.io/Projeto/
+  Confira aqui ↓
 ```
+https://thiaaagao.github.io/Projeto/
 
 
 ## Funcionalidades
